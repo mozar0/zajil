@@ -1,4 +1,4 @@
-import React from "react";
+import './socialmedia.css';
 import "boxicons";
 
 const SocialMedia = ({ svgid, linkurl, platformname }) => {
