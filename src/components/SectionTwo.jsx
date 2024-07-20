@@ -2,6 +2,7 @@
 import svg1 from "../../public/icon-feature-1.svg";
 import svg2 from "../../public/icon-feature-2.svg";
 import svg3 from "../../public/icon-feature-3.svg";
+
 const SectionTwo = () => {
   return (
     <section id="section-2">
